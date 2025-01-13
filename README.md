@@ -1,19 +1,20 @@
                                                      👋 Hi, I’m @lunaMerino
 
  I’m in the final stretch of my **web development** studies.
+ 
  I'm currently working on the development of an educational website.
 
 ## Contact:
 marialuna-garcia-arcicollar@avedrunasevillasj.es
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/luna-merino/)
+[LinkedIn](https://www.linkedin.com/in/luna-merino/)
 
 
 
-
+<!--
 ## Languages and Tools:
 
-https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
+ https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
 https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
@@ -33,4 +34,4 @@ https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kube
 https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white
 
 https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white
-https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white
+https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white -->
