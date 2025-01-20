@@ -11,7 +11,6 @@ marialuna-garcia-arcicollar@avedrunasevillasj.es
 
 
 
-<!--
 ## Languages and Tools:
 
 https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
@@ -34,4 +33,4 @@ https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kube
 https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white
 
 https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white
-https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white -->
+https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white
