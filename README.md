@@ -13,41 +13,13 @@ marialuna-garcia-arcicollar@avedrunasevillasj.es
 
 <div align="center">
 
-### 🛠️ Mis Proyectos
+## 🌟 Proyectos Destacados
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Proyecto 1 -->
-  <div style="background-color: #fdf5e6; border: 1px solid #e0d5c2; border-radius: 8px; padding: 15px; width: 280px; text-align: left;">
-    <a href="https://github.com/usuario/proyecto1" style="text-decoration: none; color: inherit;">
-      <h3>🔧 Proyecto 1: Gestor de Tareas</h3>
-      <p>Una aplicación para gestionar tareas de forma eficiente, con sistema de etiquetas y prioridades.</p>
-      <p><b>Tecnologías:</b> React, Node.js, MongoDB</p>
-    </a>
-  </div>
-
-  <!-- Proyecto 2 -->
-  <div style="background-color: #fdf5e6; border: 1px solid #e0d5c2; border-radius: 8px; padding: 15px; width: 280px; text-align: left;">
-    <a href="https://github.com/usuario/proyecto2" style="text-decoration: none; color: inherit;">
-      <h3>📊 Proyecto 2: Analizador de Datos</h3>
-      <p>Herramienta que permite procesar y visualizar datos en tiempo real.</p>
-      <p><b>Tecnologías:</b> Python, Pandas, Matplotlib</p>
-    </a>
-  </div>
-
-  <!-- Proyecto 3 -->
-  <div style="background-color: #fdf5e6; border: 1px solid #e0d5c2; border-radius: 8px; padding: 15px; width: 280px; text-align: left;">
-    <a href="https://github.com/usuario/proyecto3" style="text-decoration: none; color: inherit;">
-      <h3>🌐 Proyecto 3: Sitio Web Personal</h3>
-      <p>Un portafolio para mostrar mis proyectos y habilidades.</p>
-      <p><b>Tecnologías:</b> HTML, CSS, JavaScript</p>
-    </a>
-  </div>
-
-</div>
-</div>
-
-
+| Proyecto                           | Descripción                                                | Tecnologías                         |
+|------------------------------------|------------------------------------------------------------|-------------------------------------|
+| 🔧 **[Gestor de Tareas](https://github.com/usuario/proyecto1)** | Una aplicación para gestionar tareas con etiquetas y prioridades. | React, Node.js, MongoDB             |
+| 📊 **[Analizador de Datos](https://github.com/usuario/proyecto2)** | Herramienta para procesar y visualizar datos en tiempo real. | Python, Pandas, Matplotlib          |
+| 🌐 **[Sitio Web Personal](https://github.com/usuario/proyecto3)** | Un portafolio para mostrar mis proyectos y habilidades.   | HTML, CSS, JavaScript               |
 
 ## Languages and Tools:
 
