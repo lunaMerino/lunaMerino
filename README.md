@@ -11,25 +11,22 @@ marialuna-garcia-arcicollar@avedrunasevillasj.es
 
 ## 🌟 Proyectos Destacados
 
-<div align="center">
-
-## 🌟 Proyectos Destacados
-
-### 🔧 [Gestor de Tareas](https://github.com/usuario/proyecto1)
+💻 **[Gestor de Tareas](https://github.com/usuario/proyecto1)**  
 Una aplicación para gestionar tareas con etiquetas y prioridades.  
-**Tecnologías:** React, Node.js, MongoDB
+**🛠️ Tecnologías:** React, Node.js, MongoDB
 
 ---
 
-### 📊 [Analizador de Datos](https://github.com/usuario/proyecto2)
+📊 **[Analizador de Datos](https://github.com/usuario/proyecto2)**  
 Herramienta para procesar y visualizar datos en tiempo real.  
-**Tecnologías:** Python, Pandas, Matplotlib
+**🛠️ Tecnologías:** Python, Pandas, Matplotlib
 
 ---
 
-### 🌐 [Sitio Web Personal](https://github.com/usuario/proyecto3)
+🌐 **[Sitio Web Personal](https://github.com/usuario/proyecto3)**  
 Un portafolio para mostrar mis proyectos y habilidades.  
-**Tecnologías:** HTML, CSS, JavaScript
+**🛠️ Tecnologías:** HTML, CSS, JavaScript
+
 
 ## Languages and Tools:
 
